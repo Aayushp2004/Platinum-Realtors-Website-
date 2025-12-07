@@ -1,7 +1,7 @@
-latinum Realtors — Real Estate Service Website
+Platinum Realtors — Real Estate Service Website
 A modern UI website built for a real estate business, featuring Leave & License services and Property Sale/Purchase functionalities.
 
-This project demonstrates my ability to design and develop a fully responsive, animated, and professional multi-page website using React, Vite, TailwindCSS and Framer Motion.
+This project demonstrates my ability to design and develop a fully responsive, animated, and professional multi-page website using React, Vite, TailwindCSS, Framer Motion and FontAwesome.
 The website was created as part of a real freelance project for Platinum Realtors, a real-estate service provider.
 
 🚀 Live Demo
@@ -31,6 +31,8 @@ As the sole developer, I handled:
 
 ✔ Page animations using Framer Motion
 
+✔ Professional Icon Set Using FontAwesome 
+
 ✔ Carousel integration for property display
 
 ✔ QR code integration for WhatsApp communication
@@ -44,6 +46,7 @@ As the sole developer, I handled:
 | **Framer Motion**             | Page & element animations |
 | **React Responsive Carousel** | Property slider           |
 | **React Icons**               | Icons & visuals           |
+| **FontAwesome **              | Professional Icon set & visuals|
 
 
 📱 Website Sections
