@@ -12,9 +12,13 @@ The website was created as part of a real freelance project for Platinum Realtor
 ✨ Project Overview
 
 Platinum Realtors helps users with:
+
 -Leave & License Registration through government-approved online portals
+
 -Sale & Purchase of residential & commercial properties
+
 -WhatsApp QR support and Contact information
+
 This website transforms these services into a clean, user-friendly digital interface.
 
 🎯 My Role in This Project
@@ -22,10 +26,15 @@ This website transforms these services into a clean, user-friendly digital inter
 As the sole developer, I handled:
 
 ✔ UI/UX design using TailwindCSS
+
 ✔ Component-based architecture using React
+
 ✔ Page animations using Framer Motion
+
 ✔ Carousel integration for property display
+
 ✔ QR code integration for WhatsApp communication
+
 ✔ Responsive layout for all screen sizes
 
 | Technology                    | Purpose                   |
@@ -42,38 +51,53 @@ As the sole developer, I handled:
 🏠 Home
 
 -Hero section with animated introduction
+
 -Buttons linking to Leave & License and Sale/Purchase
+
 -Clean service highlights
 
 👤 About
 
 -Business details
+
 -Achievement counters (10+ years, 10,000+ registrations, etc.)
+
 -Animated experience cards
 
 📝 Leave & License
 
 -Explanation of process
+
 -Benefits & workflow
+
 -Professional UI
 
 🏡 Sale & Purchase
 
 -Property carousel
+
 -Information cards for buyers/sellers
+
 -WhatsApp CTA button
 
 📞 Contact Page
 
 -WhatsApp QR code
+
 -Contact details (email, phone, location)
 
 🌟 Key Highlights 
+
 -Built with best coding practices and clean component structure
+
 -Fully responsive from 320px to 1920px
+
 -Smooth UX with scroll animations
+
 -Professional color palette & design
+
 -Real-world project reflecting business requirements
+
 -Demonstrates my frontend development skills in a real use case
 
 
