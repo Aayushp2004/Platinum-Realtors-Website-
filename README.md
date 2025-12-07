@@ -112,4 +112,5 @@ If you'd like a similar website or want to collaborate:
 📧 Email: aayushprajapati12064@gmail.com 
 
 🔗 LinkedIn: [https://www.linkedin.com/in/aayushprajapati2004/]
+
 🌐 Portfolio: [https://aayushprajapati.netlify.app/]
