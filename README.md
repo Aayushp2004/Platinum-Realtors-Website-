@@ -7,8 +7,8 @@ The website was created as part of a real freelance project for Platinum Realtor
 🚀 Live Demo
 
 🔗 Live Website:[ https://platinumrealtors.netlify.app/ ]
-🔗 GitHub Repository: Add repo link here
 
+🔗 GitHub Repository: [https://github.com/Aayushp2004/Platinum-Realtors-Website]
 ✨ Project Overview
 
 Platinum Realtors helps users with:
